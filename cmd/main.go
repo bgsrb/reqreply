@@ -1,6 +1,3 @@
-# reqreply
-
-```go
 package main
 
 import (
@@ -31,10 +28,3 @@ func main() {
 
 	<-make(chan int)
 }
-
-```
-
-```
-Hi Hi
-Hello Hello
-```
